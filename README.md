@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmoBolarinwaye Ajayi Bolarinwa
-- 👀 I’m interested in software development
+- 👀 I’m Passionate about software development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web project, and open source project.
 - 📫 You can reach me via email: Ajayibcd@gmail.com
